@@ -9,9 +9,9 @@ include_once "db.php"; // config.php included in db.php
             </div>
             <nav class="header__top__menu">
                 <ul>
-                    <li><a href="/">Главная</a></li>
-                    <li><a href="/pages/about_me.php">About Me</a></li>
-                    <li><a href="<?php echo $config['vk_url']; ?>" target="_blank">Я Вконтакте</a></li>
+                    <li><a href="/">Main Page</a></li>
+                    <li><a href="/pages/about_me.php">About Me & Contact Information</a></li>
+                    <li><a href="<?php echo $config['LI_url']; ?>" target="_blank">My LinkedIn</a></li>
                 </ul>
             </nav>
         </div>

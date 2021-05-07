@@ -2,7 +2,7 @@
 
 $config = array(
     "title" => "Personal Blog of Marks Kalijevs",
-    "vk_url" => 'https://vk.com/mark3002',
+    "LI_url" => 'https://www.linkedin.com/in/kaleff/',
     "db" => array(
         "server" => "127.0.0.1",
         "username" => "root",

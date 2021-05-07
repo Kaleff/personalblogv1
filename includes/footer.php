@@ -9,10 +9,9 @@ include_once "config.php";
         </div>
         <nav class="footer__menu">
             <ul>
-                <li><a href="/">Главная</a></li>
-                <li><a href="/pages/about_me.php">Обо мне</a></li>
-                <li><a target="_blank" href="<?php Echo $config['vk_url']; ?>">Я Вконтакте</a></li>
-                <li><a href="#">Правообладателям</a></li>
+                <li><a href="/">Main Page</a></li>
+                <li><a href="/pages/about_me.php">About Me & Contact Information</a></li>
+                <li><a target="_blank" href="<?php Echo $config['LI_url']; ?>">My LinkedIn</a></li>
             </ul>
         </nav>
     </div>
